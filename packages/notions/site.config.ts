@@ -25,7 +25,7 @@ const CONFIG = {
   notionConfig: {
     pageId: process.env.NOTION_PAGE_ID,
   },
-  isToolToggleVisible: true,
+  isToolToggleVisible: false,
   sns: {
     github: "https://github.com/pskyung",
     linkedin:
